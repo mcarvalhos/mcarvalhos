@@ -51,6 +51,8 @@ Here are some ideas to get you started:
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logoColor=white)
 ![Kanban](https://img.shields.io/badge/Kanban-F2C94C?style=for-the-badge&logoColor=white)
 ![Protheus](https://img.shields.io/badge/Protheus-007ACC?style=for-the-badge&logoColor=white)
+![Protheus](https://img.shields.io/badge/TLPP-007ACC?style=for-the-badge&logoColor=white)
+![Protheus](https://img.shields.io/badge/ADVPL-007ACC?style=for-the-badge&logoColor=white)
 </div>
   
   ##
